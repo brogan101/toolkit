@@ -1,4 +1,4 @@
-
+pip install psutil==7.0.0 customtkinter==5.2.2 matplotlib==3.10.1 cryptography==44.0.2 requests==2.32.3 PyPDF2==3.0.1 pillow==11.1.0 scapy==2.6.1 speedtest-cli==2.1.3 pywin32==307 py-sensors pynvml wifi python-whois
 
 You can copy this text into a file named `requirements.txt`:
 
