@@ -1,0 +1,12 @@
+{
+    "ping google": {
+        "category": "Network",
+        "file": "custom_tools\\ping_google.bat",
+        "type": "batch"
+    },
+    "Repair suite ": {
+        "category": "IT Support",
+        "file": "custom_tools\\repair_suite_.bat",
+        "type": "batch"
+    }
+}
